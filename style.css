@@ -1,0 +1,9 @@
+div {
+  width: 1px;
+}
+div p {
+  width: 2px;
+}
+div p .red {
+  color: red;
+}
